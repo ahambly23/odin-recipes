@@ -1,1 +1,3 @@
 # odin-recipes
+
+A little website about three recipes...
