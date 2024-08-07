@@ -1,0 +1,35 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: gray;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    font-size: 24px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a:hover {
+    font-size: 32px;
+    transition: ease-in-out;
+    transition-duration: 400ms;
+    color: gray;
+}
